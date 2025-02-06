@@ -1,7 +1,3 @@
-
-
-<!--
-**THANGAMUNEESWARANG/THANGAMUNEESWARANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Portfolio Website
 
 This is a personal portfolio website developed using **HTML**, **CSS**, and **JavaScript**. It showcases the projects, skills, and experience of the developer in an interactive and visually appealing way.
@@ -45,5 +41,3 @@ Here are some screenshots of the portfolio:
 
 ![Portfolio Screenshot](./screenshort/Screenshot%202025-01-06%20103958%20-%20Copy.png)
 ![Portfolio Screenshot](./screenshort/Screenshot%202025-01-01%20113057.png)
-
--->
